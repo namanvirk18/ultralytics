@@ -19,6 +19,6 @@
 
 Real-time vision AI framework with native end-to-end inference, eliminating NMS for 43% faster CPU performance on edge devices.
 
-<img src="https://github.com/namanvirk18/ultralytics/blob/main/assets/YOLO-ice-hockey-vid.gif?raw=true" alt="YOLO26 Demo" width="800">
+<img src="https://github.com/namanvirk18/ultralytics/blob/main/assets/ice-hoc-final.gif?raw=true" alt="YOLO26 Demo" width="800">
 
 </div>
